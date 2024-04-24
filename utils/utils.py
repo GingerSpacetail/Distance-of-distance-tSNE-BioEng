@@ -13,7 +13,7 @@ import numpy as np
 from sklearn import metrics
 from scipy.spatial import distance as dist 
 from sklearn.cluster import KMeans
-from sklearn.datasets.samples_generator import make_blobs
+from sklearn.datasets._samples_generator import make_blobs
 import pandas as pd 
 
 
